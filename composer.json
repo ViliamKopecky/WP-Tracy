@@ -17,8 +17,7 @@
         "tracy/tracy": "~2.3"
     },
     "autoload": {
-        "classmap": ["src/panels"],
-        "files": ["src/index.php"]
+        "classmap": ["src/panels"]
     },
     "minimum-stability": "dev"
 }
